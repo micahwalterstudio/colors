@@ -10,7 +10,7 @@ setup(
     author='Micah Walter Studio',
     url='https://github.com/micahwalterstudio/colors',
     dependency_links=[
-        'https://github.com/givp/RoyGBiv/tarball/master#egg=roygbiv',
+        'https://github.com/micahwalterstudio/roygbiv/tarball/master#egg=roygbiv',
         'https://github.com/micahwalterstudio/swatchbook/tarball/master#egg=swatchbook',
      ],
     install_requires=[
